@@ -1,0 +1,23 @@
+qid,input,expected_status,pii_type,note
+P01,My PAN is ABCDE1234F,refused_pii,pan,uppercase PAN
+P02,pan abcde1234f is on the form,refused_pii,pan,lowercase PAN
+P03,Aadhaar 2345 6789 0123,refused_pii,aadhaar,spaced aadhaar
+P04,The number 234567890123 was shared,refused_pii,aadhaar,12-digit aadhaar
+P05,Call me on 9876543210,refused_pii,mobile,bare mobile
+P06,My number is +91-9876543210,refused_pii,mobile,country code
+P07,Email me at a@b.com please,refused_pii,email,simple email
+P08,The account number is 123456789012,refused_pii,account,digit run with account keyword
+P09,folio number 123456789,refused_pii,folio,folio number keyword
+P10,my OTP is 482193,refused_pii,otp,otp keyword
+P11,The CVV is 123,refused_pii,cvv,cvv keyword
+P12,Here is my demat id,refused_pii,demat,demat keyword
+P13,pan number follows on the form,refused_pii,pan,pan number keyword
+P14,Please do not store my aadhaar,refused_pii,aadhaar,aadhaar keyword
+P15,account number 9988776655443,refused_pii,account,13-digit account number
+P16,folio no 556677889,refused_pii,folio,folio no keyword
+L01,What is the exit load in the first 12 months?,pass,,legitimate period
+L02,What is the expense ratio of SBI Bluechip?,pass,,scheme fact
+L03,What is the minimum SIP of 500 rupees?,pass,,small amount
+L04,What is the lock-in of 3 years for the ELSS?,pass,,category word is not PII
+L05,Which benchmark applies after 1 year?,pass,,short digits
+L06,Reference code 123456789012 is printed on the factsheet,pass,,bare digit run without a keyword

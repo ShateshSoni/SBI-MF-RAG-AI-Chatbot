@@ -1,0 +1,10 @@
+.env
+chroma_db/
+models/
+data/raw/
+data/raw_text/
+data/cache/
+logs/
+__pycache__/
+.pytest_cache/
+.venv/

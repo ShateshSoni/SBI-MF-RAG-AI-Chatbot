@@ -1,0 +1,21 @@
+qid,question,expected_scheme,expected_url,mandatory_topic,expected_status
+F01,What is the expense ratio of SBI Bluechip?,SBI Bluechip Fund,https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-june-2026.pdf?sfvrsn=40d486d1_4,expense_ratio,answered
+F02,What is the exit load of SBI Flexicap?,SBI Flexicap Fund,https://www.sbimf.com/docs/default-source/default-library/kim---sbi-flexicap-fund0bc48eb83bf949309a7d16b37b3031b0.pdf?sfvrsn=263dc738_0,exit_load,answered
+F03,What is the minimum SIP for SBI Small Cap?,SBI Small Cap Fund,https://www.sbimf.com/docs/default-source/lists/sid_kim/sid---sbi-small-cap-fund.pdf?sfvrsn=46afc239_0,minimum_sip,answered
+F04,What is the ELSS lock-in period?,SBI Long Term Equity Fund,https://www.sbimf.com/docs/default-source/lists/sid---sbi-long-term-equity-fund.pdf?sfvrsn=4ed0dd3c_0,elss_lockin,answered
+F05,What is the riskometer of SBI Long Term Equity?,SBI Long Term Equity Fund,https://www.sbimf.com/docs/default-source/scheme-factsheets/sbi-long-term-equity-fund-factsheet-july-2024.pdf?sfvrsn=3980ad9e_2,riskometer,answered
+F06,What is the benchmark of SBI Flexi Cap?,SBI Flexicap Fund,https://www.sbimf.com/docs/default-source/default-library/kim---sbi-flexicap-fund0bc48eb83bf949309a7d16b37b3031b0.pdf?sfvrsn=263dc738_0,benchmark,answered
+F07,How do I download my capital-gains statement?,,https://www.sbimf.com/ways-to-invest,statement_download,answered
+F08,What is the tax treatment of equity funds under 80C in the Tax Reckoner?,,https://www.sbimf.com/docs/default-source/pdf/sbi-mf-tax-reckoner-fy-2026-27.pdf?Status=Temp&sfvrsn=99ff7222_2,tax,answered
+F09,How do I download an account statement using AMFI CAS?,,https://www.amfiindia.com/investor/become-mf-distributor?zoneName=consolidatedAcct,statement_download,answered
+F10,What changed in the base TER with effect from 30.05.2025?,,https://www.sbimf.com/docs/default-source/expense-ratio/base-ter-change-w-e-f-30-05-2025.pdf?sfvrsn=d65d1ea6_2,expense_ratio,answered
+O01,What is the SIP date of HDFC Flexi Cap?,,,out_of_corpus
+O02,What is the NAV of SBI Bluechip today?,,,out_of_corpus
+O03,What is the expense ratio of HDFC Midcap Fund?,,,out_of_corpus
+O04,Who manages the Axis mutual bluechip scheme?,,,out_of_corpus
+O05,What is the lock-in period of PPF?,,,out_of_corpus
+O06,What is the weather in Mumbai tomorrow?,,,out_of_corpus
+O07,How do I check an IPO allotment status?,,,out_of_corpus
+O08,What is a credit-card reward rate?,,,out_of_corpus
+O09,Where is the nearest post office branch?,,,out_of_corpus
+O10,What is the settlement cycle for equity delivery?,,,out_of_corpus
